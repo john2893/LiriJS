@@ -1,31 +1,38 @@
-# LIRI Bot
-
-
-Overview
-
+# Dillinger
+# Overview
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-Node packages used:
+# Node packages used:
+   
+  - Node-Spotify-API
+  - Request
+  - Moment
+  - DotEnv
+  - Cli-table2
+  - Inquirer
+  - fs
+  - cfonts
+  - 
 
-•	Node-Spotify-API
-•	Request
-•	Moment
-•	DotEnv
-•	Cli-table2
-•	Inquirer
-•	fs
-•	cfonts
 
-Usage:
-	concert-this
-	spotify-this-song
-	movie-this
-	do-what-it-says
 
-Command Usage:
-	node liri.js <spotify-this-song>
-	node liri.js <concert-this>
-	node liri.js <movie-this>
-	node liri.js <do-what-it-says>
+## Command Usage:
+
+Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+concert-this
+spotify-this-song
+movie-this
+do-what-it-says
+
+$ node liri.js concert-this
+$ node liri.js spotify-this-song
+$ node liri.js movie-this
+$ node liri.js do-what-it-says
+```
+
