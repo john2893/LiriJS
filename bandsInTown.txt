@@ -1,0 +1,19 @@
+Pearl Concert Theater,Las Vegas,United States,February 8th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,February 9th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,February 13th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,February 15th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,February 16th 2019 09:00
+San Antonio Stock Show & Rodeo,San Antonio,United States,February 20th 2019 07:00
+C2C Festival, Dublin,Dublin,Ireland,March 8th 2019 07:00
+C2C Festival, London,London,United Kingdom,March 9th 2019 07:00
+C2C Festival, Glasgow,Glasgow,United Kingdom,March 10th 2019 07:00
+Pearl Concert Theater,Las Vegas,United States,May 10th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,May 11th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,May 15th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,May 17th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,May 18th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,August 23rd 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,August 24th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,August 28th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,August 30th 2019 09:00
+Pearl Concert Theater,Las Vegas,United States,August 31st 2019 09:00
